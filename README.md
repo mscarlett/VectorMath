@@ -1,6 +1,6 @@
 # VectorMath
 
-VectorMath is an Android calculator for Euclidean vectors. The calculator was developed using the [javacalculus](https://code.google.com/archive/p/javacalculus/) library.
+VectorMath is an Android calculator for Euclidean vectors. The calculator was developed using a fork of the [javacalculus](https://code.google.com/archive/p/javacalculus/) library.
 
 It supports the following operations:
 
@@ -16,4 +16,4 @@ It supports the following operations:
 * [Angle](https://en.wikipedia.org/wiki/Angle)
 * [Vector addition and subtraction](https://en.wikipedia.org/wiki/Euclidean_vector#Addition_and_subtraction)
 
-as well as additional operations implemented by javacalculus. The calculator is [licensed](LICENSE.md) under GNU GPL v3.
+as well as additional operations implemented by javacalculus. The calculator is [licensed](LICENSE.md) under GNU GPL v3 and available in the Google Play Store.
