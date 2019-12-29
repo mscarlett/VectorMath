@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vector Math</string>
+    <string name="edit_message">Input a function</string>
+    <string name="button_send">Enter</string>
+</resources>
